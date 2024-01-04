@@ -1,7 +1,8 @@
 repo_name: ubogdan/contra
 report_id: c9f80d5e07134f0950ac350cf9737a06
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T21:16:57+00:00'
+timestamp: '2024-01-04T15:14:33+00:00'
 requested_by: dustinaja
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/contra
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/contra
   detection_source: Repo Metadata
 - name: Testify
   description: A toolkit with common assertions and mocks that plays nicely with the
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/ubogdan/contra/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Dustin Graham
   last_updated_on: 2018-12-16 07:46:53.000000000 Z
@@ -49,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ubogdan/contra/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Dustin Graham
   last_updated_on: 2018-12-16 19:04:52.000000000 Z
@@ -61,4 +66,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ubogdan/contra
   detection_source: Repo Metadata
